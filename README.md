@@ -20,7 +20,7 @@
       <ul>
         <li>🚀 Currently working on <b>cutting-edge AI/ML and Web Development projects</b>, including <b>J.A.R.V.I.S.</b>, <b>HoloView</b>, and <b>M.W.I.S.E</b>.</li>
         <li>🧠 Exploring <b>State-of-the-Art NLP</b> and <b>Advanced Machine Learning Algorithms</b>.</li>
-        <li>🏆 Active participant in hackathons like <b>HackIndia</b>, and member of the <b>Voyager Coding Club</b> at KCCITM.</li>
+        <li>🏆 Active participant in hackathons and open-source development.</li>
         <li>⚡ In my free time, I like building systems that make "Genius Billionaire Playboy Philanthropist" look less like fiction.</li>
       </ul>
     </td>
@@ -36,14 +36,24 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,html,css,react,nodejs,git,github,vscode,linux,cpp,java,docker,figma&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,py,js,html,css,tailwind,react,vite,nodejs,express,mongodb,mysql,tensorflow,git,github,linux,docker,netlify,vscode,figma&perline=11" />
   </a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP-009688?style=for-the-badge&logo=apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway-%23131415.svg?style=for-the-badge&logo=railway&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-8A2BE2?style=for-the-badge&logo=leetcode&logoColor=white" />
   <img src="https://img.shields.io/badge/Web%20Development-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-009688?style=for-the-badge&logo=apache&logoColor=white"/>
 </p>
 
 ---
