@@ -52,6 +52,7 @@
   <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-8A2BE2?style=for-the-badge&logo=leetcode&logoColor=white" />
   <img src="https://img.shields.io/badge/Web%20Development-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-E34F26?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/NLP-009688?style=for-the-badge&logo=apache&logoColor=white"/>
 </p>
