@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Welcome%20to%20My%20Universe&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Genius,%20Billionaire,%20Playboy,%20Philanthropist&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2ecc71&height=300&section=header&text=Somay%20Arora&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Genius,%20Billionaire,%20Playboy,%20Philanthropist&descAlignY=55&descAlign=50&descSize=22" alt="Header" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Somay Arora</h1>
+<h1 align="center">👋 Welcome to My Universe</h1>
 <h3 align="center">Building the next J.A.R.V.I.S. from Delhi, India</h3>
 
 <p align="center">
   <a href="https://github.com/SomayArora">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=2ecc71&center=true&vCenter=true&width=500&lines=AI%2FML+Enthusiast;Web+Developer;Building+State-of-the-Art+NLP+Systems;Member+of+Team+CODETITANS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1000&color=2ecc71&center=true&vCenter=true&width=650&lines=Initializing+J.A.R.V.I.S.+Protocols...;Architecting+State-of-the-Art+NLP+Systems;Training+Advanced+AI%2FML+Models;Forging+Next-Gen+Web+Experiences;Proud+Member+of+Team+CODETITANS" alt="Typing SVG" />
   </a>
 </p>
 
@@ -35,34 +35,15 @@
 <h3 align="center">🛠️ Tech Stack & Arsenal</h3>
 
 <p align="center">
-  <b>Languages</b><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,cpp,java,html,css&perline=10" />
+    <img src="https://skillicons.dev/icons?i=py,js,html,css,react,nodejs,git,github,vscode,linux,cpp,java,docker,figma&perline=14" />
   </a>
 </p>
-
-<p align="center">
-  <b>Frameworks & Libraries</b><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,tensorflow,sklearn,pytorch&perline=10" />
-  </a>
-</p>
-
-<p align="center">
-  <b>Databases & Tools</b><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,linux,docker,postman,aws,figma&perline=10" />
-  </a>
-</p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-E34F26?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-5C5C5C?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <br>
   <img src="https://img.shields.io/badge/NLP-009688?style=for-the-badge&logo=apache&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Web%20Development-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ---
