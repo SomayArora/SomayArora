@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/SomayArora">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1000&color=2ecc71&center=true&vCenter=true&width=650&lines=Initializing+J.A.R.V.I.S.+Protocols...;Architecting+State-of-the-Art+NLP+Systems;Training+Advanced+AI%2FML+Models;Forging+Next-Gen+Web+Experiences;Proud+Member+of+Team+CODETITANS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1000&color=2ecc71&center=true&vCenter=true&width=650&lines=Initializing+J.A.R.V.I.S.+Protocols...;Architecting+State-of-the-Art+NLP+Systems;Training+Advanced+AI%2FML+Models;Forging+Next-Gen+Web+Experiences" alt="Typing SVG" />
   </a>
 </p>
 
